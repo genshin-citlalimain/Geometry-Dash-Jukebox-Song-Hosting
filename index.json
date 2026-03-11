@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Aa Kenran no Yume ga Gotoku (Epsilon Remix)",
+    "artist": "Uinyasu, Occhoko Bunny",
+    "songs": [1],
+    "source": "host",
+    "url": "https://cdn.jsdelivr.net/gh/genshin-citlalimain/Geometry-Dash-Jukebox-Song-Hosting/songs/aa_kenran_no_yume.mp3"
+  },
+  {
+    "name": "Amazing Mirage",
+    "artist": "lapix",
+    "songs": [2],
+    "source": "host",
+    "url": "https://cdn.jsdelivr.net/gh/genshin-citlalimain/Geometry-Dash-Jukebox-Song-Hosting/songs/amazing_mirage.mp3"
+  },
+  {
+    "name": "Aurore ~for Triumph~",
+    "artist": "Ashrount",
+    "songs": [3],
+    "source": "host",
+    "url": "https://cdn.jsdelivr.net/gh/genshin-citlalimain/Geometry-Dash-Jukebox-Song-Hosting/songs/aurore_for_triumph.mp3"
+  },
+  {
+    "name": "CIRCUS PANIC!!!",
+    "artist": "Satsuki feat. Hatsune Miku",
+    "songs": [4],
+    "source": "host",
+    "url": "https://cdn.jsdelivr.net/gh/genshin-citlalimain/Geometry-Dash-Jukebox-Song-Hosting/songs/circus_panic.mp3"
+  },
+  {
+    "name": "Rubik's Cube",
+    "artist": "Nanahosi Kangengakudan",
+    "songs": [5],
+    "source": "host",
+    "url": "https://cdn.jsdelivr.net/gh/genshin-citlalimain/Geometry-Dash-Jukebox-Song-Hosting/songs/rubiks_cube.mp3"
+  },
+  {
+    "name": "THE PLATINUM TROPHY",
+    "artist": "KEMOMIMI EDM SQUAD",
+    "songs": [6],
+    "source": "host",
+    "url": "https://cdn.jsdelivr.net/gh/genshin-citlalimain/Geometry-Dash-Jukebox-Song-Hosting/songs/the_platinum_trophy.mp3"
+  },
+  {
+    "name": "Walking Shadows",
+    "artist": "TheFatRat",
+    "songs": [7],
+    "source": "host",
+    "url": "https://cdn.jsdelivr.net/gh/genshin-citlalimain/Geometry-Dash-Jukebox-Song-Hosting/songs/walking_shadows.mp3"
+  },
+  {
+    "name": "world.execute(me);",
+    "artist": "Mili",
+    "songs": [8],
+    "source": "host",
+    "url": "https://cdn.jsdelivr.net/gh/genshin-citlalimain/Geometry-Dash-Jukebox-Song-Hosting/songs/world_execute_me.mp3"
+  },
+  {
+    "name": "Yakou",
+    "artist": "7_7 feat. Kasane Vazved",
+    "songs": [9],
+    "source": "host",
+    "url": "https://cdn.jsdelivr.net/gh/genshin-citlalimain/Geometry-Dash-Jukebox-Song-Hosting/songs/yakou.mp3"
+  }
+]
